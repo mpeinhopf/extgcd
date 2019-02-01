@@ -1,0 +1,36 @@
+{
+  "name": "extgcd",
+  "version": "1.0.0",
+  "description": "Compute the gcd and solve Bezout's identity using the extended Euclidean algorithm.",
+  "main": "extgcd.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jasmine test/extgcd.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mpeinhopf/extgcd.git"
+  },
+  "keywords": [
+    "gcd",
+    "extgcd",
+    "extended",
+    "gcd",
+    "modular",
+    "inverse",
+    "math",
+    "maths",
+    "mathematics",
+    "euclid",
+    "bezout",
+    "identity"
+  ],
+  "author": "Maximilian Peinhopf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mpeinhopf/extgcd/issues"
+  },
+  "homepage": "https://github.com/mpeinhopf/extgcd#readme"
+}
